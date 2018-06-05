@@ -5,6 +5,6 @@ using Reexport
 
 include("NEPCore.jl");
 include("NEPTypes.jl");
-include("NEPSethod.jl");
+include("NEPSolver.jl");
 
 end
