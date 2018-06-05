@@ -4,7 +4,7 @@ module NonlinearEigenproblems
 using Reexport
 
 include("NEPCore.jl");
-@reexport using NEPCore
-@reexport using NEPTypes
+include("NEPTypes.jl");
+include("NEPSethod.jl");
 
 end
