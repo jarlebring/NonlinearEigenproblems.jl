@@ -3,7 +3,7 @@ module NonlinearEigenproblems
 
 using Reexport
 
-@reexport NEPCore
-@reexport NEPTypes
+@reexport using NEPCore
+@reexport using NEPTypes
 
 end
