@@ -2,6 +2,8 @@
 
 This package is a first alpha version of methods for nonlinear eigenvalue problems in julia.
 
+Stupid change
+
 # How to use it?
 
 The user documentation is available on github pages:
